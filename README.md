@@ -101,6 +101,15 @@ Passo 1 - Abra o Power Automate - Marque a Opção como mostra a imagem e clique
 - Mais visibildiade dos gestores no acompanhamento dos prazos
 ---
 
+## 📊 Projeto feito em Python para automatizar processos dentro do SAP Hanna
+<img src="https://github.com/user-attachments/assets/a9d9c210-7a78-4b6c-a9a1-9a56a5eb515b" alt="Automatizando o SAP" width="400"/>
+
+### ⏱️ Economia de Tempo
+- Antes: 6h/dia de trabalho manual
+- Depois: 15 minutos com automação Power Automate ou Python
+
+---
+
 ## ✨ Outros Projetos em Breve
 Fique à vontade para explorar, clonar e se inspirar!  
 Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/euler-henrique-82b1b57a/).
